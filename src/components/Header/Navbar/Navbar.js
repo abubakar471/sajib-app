@@ -8,7 +8,7 @@ const Navbar = () => {
         <nav className={`navbar navbar-expand-lg bg-body-tertiary py-2`}>
             <div className="container-fluid">
                 <a className="navbar-brand" href="/">
-                    <img src='/assets/logo.png' alt='logo' className='logo' />
+                    <img src='/assets/logo2.ico' alt='logo' className='logo' />
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon" />

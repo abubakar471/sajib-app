@@ -15,8 +15,6 @@ const Home = () => {
 
     return (
         <div>
-            <Header />
-
             <div style={{ width: "100%", background: `url("/assets/bg2.png") rgba(0,0,0,0.05) no-repeat`, minHeight: "100vh", backgroundSize: "cover", backgroundPosition: "center", backgroundBlendMode: "darken", backgroundAttachment : "fixed" }}>
                 <div style={{ width: "80%", margin: "auto", padding: "60px 0", display: "flex", alignItems: "center", justifyContent: "center", flexDirection: "column" }}>
                     <h1>Welcome To Doctor Appointment System</h1>
