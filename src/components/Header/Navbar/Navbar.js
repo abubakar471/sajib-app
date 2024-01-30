@@ -2,8 +2,10 @@ import "./Navbar.css"
 import React from 'react'
 
 const Navbar = () => {
+
+
     return (
-        <nav className="navbar navbar-expand-lg bg-body-tertiary py-4">
+        <nav className={`navbar navbar-expand-lg bg-body-tertiary py-2`}>
             <div className="container-fluid">
                 <a className="navbar-brand" href="/">
                     <img src='/assets/logo.png' alt='logo' className='logo' />
